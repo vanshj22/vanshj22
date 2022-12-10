@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+<h1 align="center">Hi 👋, I'm Vansh Jain</h1>
 <h3 align="center">Programmer for fun</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
