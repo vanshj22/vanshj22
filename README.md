@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Vansh Jain</h1>
 <h3 align="center">Programmer for fun</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshj22&label=Profile%20views&color=0e75b6&style=flat" alt="vanshj22" /> </p>
-
 - 🔭 I’m currently working on [q](q)
 
 - 🌱 I’m currently learning **Tensorflow, OpenCV**
@@ -50,4 +48,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vanshj22&show_icons=true&locale=en" alt="vanshj22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshj22&" alt="vanshj22" /></p>
-
