@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshj22&label=Profile%20views&color=0e75b6&style=flat" alt="vanshj22" /> </p>
 
-- 🔭 I’m currently working on **B.Tech Computer Science**
+- 🔭 I’m currently working on **B.Eng Computer Science**
 
-- 🌱 I’m currently learning **Tensorflow, OpenCV**
+- 🌱 I’m currently learning **ReactJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vanshj22](https://github.com/vanshj22)
 
