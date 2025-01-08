@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshj22&label=Profile%20views&color=0e75b6&style=flat" alt="vanshj22" /> </p>
 
-- 🔭 I’m currently working on **B.Eng Computer Science**
+- 🔭 I’m currently working on **Masters in Data Science**
 
 - 🌱 I’m currently learning **Machine Learning**
 
